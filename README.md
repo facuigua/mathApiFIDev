@@ -4,7 +4,7 @@ Facundo Igua - Full Stack Web Developer
 https://www.linkedin.com/in/facundoiguadeveloper/
 ##
 ## Particularidades
-*El guardado de los puntos se realizan en memoria.
+*El guardado de los puntos se realiza en memoria.
 
 *La ejecución y pruebas del código se pueden realizar con cualquier cliente API-REST o similares (Insomnia/Postman) enviando los datos del request en un multipart-form mediante el método POST. 
 ##
